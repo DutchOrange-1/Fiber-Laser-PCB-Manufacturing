@@ -1,11 +1,9 @@
 # Fiber-Laser-PCB-Manufacturing
 Creating custom 1-2 layer PCBs by using a fibre laser. 
 
-This project is an alternative to acid etching and CNC manufacturing of PCBs. The key benefits being the ease of use (No need to buy / expose yourself to chemicals, buy CNC parts, drill bits etc). The biggest advantage is drilling of the holes, without a drill bit, of any size. 
-<br>
-These advantages come with the added difficulties in the design and pre-processing phase, which will be discussed in the [Process section](#process). 
-<br>
-This project was developed in South Africa, PTA, University of Pretoria. The university had no input, nor any affordable resources for PCB manufacturing. Instead alternative public resources where explored, those who helped can be seen in [The Special Thanks section](#special-thanks-to). 
+This project is an alternative to acid etching and CNC manufacturing of PCBs. The key benefits being the ease of use (No need to buy / expose yourself to chemicals, buy CNC parts, drill bits etc). The biggest advantage is drilling of the holes, without a drill bit, of any size. <br>
+These advantages come with the added difficulties in the design and pre-processing phase, which will be discussed in the [Process section](#process). <br>
+This project was developed in South Africa, PTA, University of Pretoria. The university had no input, nor any affordable resources for PCB manufacturing. Instead alternative public resources where explored, those who helped can be seen in [The Special Thanks section](#special-thanks-to). <br>
 
 ![Example](./Results/TestFileResult.JPG)
 # Process
