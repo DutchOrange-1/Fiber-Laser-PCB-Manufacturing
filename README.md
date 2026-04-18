@@ -7,6 +7,7 @@ These advantages come with the added difficulties in the design and pre-processi
 <br>
 This project was developed in South Africa, PTA, University of Pretoria. The university had no input, nor any affordable resources for PCB manufacturing. Instead alternative public resources where explored, those who helped can be seen in [The Special Thanks section](#special-thanks-to). 
 
+![Example](./Results/TestFileResult.JPG)
 # Process
 **Note** - a Fiber laser MUST be used, recommended with a 100 mm lense. Make sure to confirm this before anything else. 
 ## Design - PCB
@@ -35,6 +36,7 @@ Some other things
 Currently only two machines settings have been tested. The key thing for all machines is to first do the holes, as the copper around it is first needed to remove unwanted heat. After this the trances can be engraved. 
 
 ## PLF-50H
+(Outdoor Safari)
 **Traces Engraving**
 | Setting           | Value    | Units |
 | :---------------- | :------: | ----: |
@@ -52,6 +54,7 @@ Currently only two machines settings have been tested. The key thing for all mac
 | Loops             |  30-40       |  |
 
 ## Galvo Scanner
+(Sunnyside engraving)
 **Traces Engraving**
 | Setting           | Value    | Units |
 | :---------------- | :------: | ----: |
@@ -79,7 +82,7 @@ A special thanks to the branch in both PTA and Krugersdorp, as they where both g
 They had a XT Laser Fiber - 50W (Krugersdorp), and PLF - 50H at PTA. <br>
 Program: EzCad. <br>
 
-The settings for these machines can be found [above](#)
+The settings for these machines can be found [above](#plf-50h)
 
 ### Sunnyside Engravers 
 Thanks to Johnathan, who took the time to vectorize the initial designs, and the kind owner to do the testing from [SunnySide Engravers](https://sunnysideengravers.co.za/). <br>
